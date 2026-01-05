@@ -8,6 +8,7 @@ wheels/
 
 # Local game logging data
 game_state.jsonl
+game_events.jsonl
 
 # Virtual environments
 .venv
